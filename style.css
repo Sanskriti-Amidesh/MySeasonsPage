@@ -1,0 +1,25 @@
+body {
+    background-color: lavender;
+    font-family: 'OSWALD';
+}
+
+h1,
+h3,
+p {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 500px;
+    padding: 30px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    border: 4px solid cyan;
+    color: white;
+}
